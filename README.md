@@ -9,10 +9,10 @@ This repository ensures that the privacy policy for the App JBT is always availa
 ## 🌍 Languages
 The privacy policies are available in:
 
-- [Português](https://rafaisen.github.io/jbt.ulisboa.pt/privacy/pt/)
-- [English](https://rafaisen.github.io/jbt.ulisboa.pt/privacy/en/)
-- [Français](https://rafaisen.github.io/jbt.ulisboa.pt/privacy/fr/)
-- [Español](https://rafaisen.github.io/jbt.ulisboa.pt/privacy/es/)
+- [Português](https://ulisboa-developer.github.io/jbt.ulisboa.pt/privacy/pt/)
+- [English](https://ulisboa-developer.github.io/jbt.ulisboa.pt/privacy/en/)
+- [Français](https://ulisboa-developer.github.io/jbt.ulisboa.pt/privacy/fr/)
+- [Español](https://ulisboa-developer.github.io/jbt.ulisboa.pt/privacy/es/)
 
 ## ⚖️ License
 This repository contains only legal/privacy documentation for the App JBT.  
@@ -21,3 +21,4 @@ The privacy policies are distributed under the **Apache License 2.0**, aligned w
 ---
 
 © Universidade de Lisboa - Jardim Botânico Tropical
+
